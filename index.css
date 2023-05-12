@@ -1,0 +1,103 @@
+body {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  margin: 0;
+  padding: 20px;
+  background-color: #f5f5f5;
+  color: #333;
+}
+
+header {
+  background-color: #000;
+  padding: 20px;
+  text-align: center;
+}
+
+h1 {
+  color: #fff;
+  font-size: 36px;
+  margin: 0;
+}
+
+h2 {
+  color: #000;
+  font-size: 28px;
+  margin-bottom: 10px;
+}
+
+h3 {
+  color: #333;
+  font-size: 24px;
+  margin-top: 20px;
+}
+
+p {
+  line-height: 1.6;
+  margin-bottom: 15px;
+}
+
+.meta {
+  color: #777;
+  font-size: 14px;
+  margin-bottom: 5px;
+}
+
+.featured-image {
+  width: 100%;
+  max-width: 600px;
+  display: block;
+  margin: 20px auto;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+article {
+  background-color: #fff;
+  padding: 30px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+}
+
+/* Additional styling inspired by Apple's website */
+body {
+  line-height: 1.6;
+}
+
+header h1 {
+  color: #fff;
+  font-size: 42px;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+  letter-spacing: -1px;
+}
+
+header p {
+  color: #ccc;
+  font-size: 18px;
+}
+
+h2 {
+  color: #000;
+  font-size: 36px;
+}
+
+h3 {
+  color: #333;
+  font-size: 30px;
+}
+
+p {
+  color: #444;
+}
+
+.meta {
+  color: #777;
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+
+article {
+  background-color: #fff;
+  padding: 30px;
+  box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  max-width: 800px;
+  margin: 0 auto;
+}
